@@ -1,0 +1,2 @@
+export const CDN_LINK = "https://static.vecteezy.com/system/resources/previews/008/799/559/non_2x/vintage-retro-restaurant-classic-food-with-fork-spoon-and-dish-design-concept-emblem-logo-template-free-vector.jpg";
+export const LOGO_LINK = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
